@@ -26,10 +26,8 @@ Keywords: `javascript`,`php`
 Keywords: `css`,`html`
 
 ### Kiko Palomares
-- [Introducción al Desarrollo web](https://academy.kikopalomares.com/courses/enrolled)
-Keywords: `css`,`html`, `javascript`
-- [HTML](https://www.codecademy.com/profiles/D4v1n4)
-Keywords: `html`
+- [Introducción al Desarrollo web](https://academy.kikopalomares.com/p/introduccion-al-desarrollo-web)
+Keywords: `css`,`html`,`javascript`
 
 
 ## In progress
@@ -37,10 +35,8 @@ Keywords: `html`
 ### Kiko Palomares
 - [JavaScript moderno para principiantes](https://academy.kikopalomares.com/courses/enrolled/1025297)
 Keywords: `js`
-- [CSS](https://academy.kikopalomares.com/courses/enrolled/751929)
-Keywords: `css`
-- [Sass & Less](https://academy.kikopalomares.com/courses/enrolled/799925)
-Keywords: `css`,`Sass`,`Less`
+- [Ópalo | Domina la maquetación web de forma profesional](https://academy.kikopalomares.com/p/opalo)
+Keywords: `css`,`Sass`,`Less`, `html`
 
 
 
