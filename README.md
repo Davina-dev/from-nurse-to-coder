@@ -6,8 +6,8 @@ My name is Davina, I am a professional nurse learning how to code from scratch, 
 ### Udemy
 - [Introducción a la Programación con Pseudocódigo Práctico](https://www.udemy.com/share/101sH2AkIYdV1SR3w=/)
   - Keywords: `pseudocode`, `pseint`
- - [Aprende a programar y crea tus programas desde cero ](https://www.udemy.com/share/101BOUAkIYdV1SR3w=/)
-  - Keywords: `pseudocode`, `pseint`
+- [Aprende a programar y crea tus programas desde cero ](https://www.udemy.com/share/101BOUAkIYdV1SR3w=/)
+  - Keywords:  `pseudocode`, `pseint`
 - [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/share/101w66AkIYdV1SR3w=/)
   - Keywords: `linux`, `cli`, `command line`
 - [Fundamentos de Programación Web para Principiantes](https://www.udemy.com/share/101D7yAkIYdV1SR3w=/)
