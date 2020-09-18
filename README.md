@@ -19,24 +19,24 @@ My name is Davina, I am a professional nurse learning how to code from scratch, 
 
 ### Sololearn
 - [Basic courses](https://www.sololearn.com/Profile/19528812)
-Keywords: `javascript`,`php`
+  - Keywords: `javascript`,`php`
 
 ### Codecademy
 - [Basic courses](https://www.codecademy.com/profiles/D4v1n4)
-Keywords: `css`,`html`
+  - Keywords: `css`,`html`
 
 ### Kiko Palomares
 - [Introducción al Desarrollo web](https://academy.kikopalomares.com/p/introduccion-al-desarrollo-web)
-Keywords: `css`,`html`,`javascript`
+  - Keywords: `css`,`html`,`javascript`
 
 
 ## In progress
 
 ### Kiko Palomares
 - [JavaScript moderno para principiantes](https://academy.kikopalomares.com/courses/enrolled/1025297)
-Keywords: `js`
+  - Keywords: `js`
 - [Ópalo | Domina la maquetación web de forma profesional](https://academy.kikopalomares.com/p/opalo)
-Keywords: `css`,`Sass`,`Less`, `html`
+  - Keywords: `css`,`Sass`,`Less`, `html`
 
 
 
