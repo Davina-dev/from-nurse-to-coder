@@ -3,6 +3,10 @@ My name is Davina, I am a professional nurse learning how to code from scratch, 
 
 ## Completed courses
 
+### Píldoras Informáticas
+- [Curso C#](https://www.pildorasinformaticas.es)
+  - Keywords: `c#`, `PC`
+
 ### Udemy
 - [Introducción a la Programación con Pseudocódigo Práctico](https://www.udemy.com/share/101sH2AkIYdV1SR3w=/)
   - Keywords: `pseudocode`, `pseint`
